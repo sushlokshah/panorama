@@ -1,4 +1,4 @@
-# Image Stitching And Panorama Construction sing Python and OpenCV
+# Image Stitching And Panorama Construction using Python and OpenCV
 
 ## Introduction:
 Here I have generated panorama using simple technique based on image to image mapping (homography) to aligning images.
